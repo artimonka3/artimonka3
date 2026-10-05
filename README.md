@@ -19,7 +19,6 @@
 
 ### SENS Nexor · Hardware Project Lead at SENS
 
-[![SENS Nexor — industrial diagnostics](assets/sens-nexor-card.png)](https://sens-site.vercel.app)
 
 Я — **Hardware Project Lead** команды **SENS**, отвечаю за аппаратную часть **Nexor**. Проект помогает связывать события на производственной линии с телеметрией и логикой Siemens S7, чтобы находить причины остановок и оценивать влияние изменений в ПЛК. Nexor работает пассивно, поверх существующей инфраструктуры.
 
