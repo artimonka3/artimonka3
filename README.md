@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="assets/sens-profile-banner-dark.png" alt="SENS robotics and engineering" width="100%" />
-
 **17 y.o. | SENS Hardware Lead | C++, Python, Industrial Robotics | BSU FAMCS**
 
 [![Telegram](https://img.shields.io/badge/Telegram-@tutuka__engineer-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tutuka_engineer)
