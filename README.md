@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/sens-banner.png" alt="SENS robotics and engineering" width="100%" />
+<img src="assets/sens-profile-banner.png" alt="SENS robotics and engineering" width="100%" />
 
 **17 y.o. | SENS Hardware Lead | C++, Python, Industrial Robotics | BSU FAMCS**
 
