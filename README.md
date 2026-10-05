@@ -2,12 +2,18 @@
 
 <div align="center">
 
-<img src="assets/sens-profile-banner.png" alt="SENS robotics and engineering" width="100%" />
+<img src="assets/sens-profile-banner-dark.png" alt="SENS robotics and engineering" width="100%" />
 
 **17 y.o. | SENS Hardware Lead | C++, Python, Industrial Robotics | BSU FAMCS**
 
 [![Telegram](https://img.shields.io/badge/Telegram-@tutuka__engineer-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tutuka_engineer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Artyom_Golyak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/golyak-artyom/)
+
+<p align="center">
+  <img src="assets/sens-mark.svg" alt="SENS" height="32" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/bsu-logo.png" alt="Belarusian State University" height="48" />
+</p>
 
 </div>
 
@@ -15,9 +21,9 @@
 
 ### SENS Nexor · Hardware Project Lead at SENS
 
-[![SENS Nexor — intelligent diagnostics for industrial automation](https://svg.bookmark.style/api?url=https://sens-site.vercel.app&mode=dark&style=horizontal)](https://sens-site.vercel.app)
+[![SENS Nexor — industrial diagnostics](assets/sens-nexor-card.png)](https://sens-site.vercel.app)
 
-Я **Hardware Project Lead** в команде **SENS** и работаю над аппаратной частью **SENS Nexor** — интеллектуального диагностического слоя для промышленной автоматизации. Nexor связывает события на производственной линии, телеметрию и логику контроллеров Siemens S7, чтобы помогать инженерам находить подтверждённые причины сбоев и проверять возможные последствия изменений в логике ПЛК. Система анализирует данные пассивно, поверх существующей инфраструктуры.
+Я — **Hardware Project Lead** команды **SENS**, отвечаю за аппаратную часть **Nexor**. Проект помогает связывать события на производственной линии с телеметрией и логикой Siemens S7, чтобы находить причины остановок и оценивать влияние изменений в ПЛК. Nexor работает пассивно, поверх существующей инфраструктуры.
 
 **В фокусе проекта:** промышленная диагностика · Siemens S7 · STL / SCL · C++ · Python · ROS 2
 
