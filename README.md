@@ -44,7 +44,7 @@
 Пішу вершы на партале:
 <div align="center">
   
-[![пра.бел](/assets/favicon.png)]([https://t.me/tutuka_engineer](https://пра.бел))
+[![пра.бел](/assets/favicon.png)](https://пра.бел)
 
 </div>
 
