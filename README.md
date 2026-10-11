@@ -40,6 +40,13 @@
 Участвую в **Space University BSU** — программе **StartUp Space BSU**, посвящённой предпринимательству и развитию стартапов.
 
 
+## Творчасць
+Пішу вершы на портале:
+<div align="center">
+  
+[![пра.бел](https://пра.бел/images/favicon.png)]([https://t.me/tutuka_engineer](https://пра.бел))
+
+</div>
 
 
 
