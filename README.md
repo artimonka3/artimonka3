@@ -41,10 +41,10 @@
 
 
 ## Творчасць
-Пішу вершы на портале:
+Пішу вершы на партале:
 <div align="center">
   
-[![пра.бел](https://пра.бел/images/favicon.png)]([https://t.me/tutuka_engineer](https://пра.бел))
+[![пра.бел](/assets/favicon.png)]([https://t.me/tutuka_engineer](https://пра.бел))
 
 </div>
 
