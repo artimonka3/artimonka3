@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 
-**17 y.o. | SENS Hardware Lead | C++, Python, Industrial Robotics | BSU FAMCS**
+**18 y.o. | SENS Hardware Lead | C++, Python, Industrial Robotics | BSU FAMCS**
 
 [![Telegram](https://img.shields.io/badge/Telegram-@tutuka__engineer-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tutuka_engineer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Artyom_Golyak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/golyak-artyom/)
